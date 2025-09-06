@@ -1,0 +1,14 @@
+{
+  "name": "customer-service-streaming",
+  "version": "1.0.0",
+  "description": "Customer Service Streaming Demo using Swarm.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

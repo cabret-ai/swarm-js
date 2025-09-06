@@ -1,0 +1,16 @@
+{
+  "name": "swarm-test-project",
+  "version": "1.0.0",
+  "description": "Test project for swarm-js usage",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "test:streaming": "node test-streaming.js"
+  },
+  "dependencies": {
+    "swarm": "file:.."
+  },
+  "author": "",
+  "license": "MIT"
+}
